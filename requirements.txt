@@ -1,0 +1,1 @@
+Pillow>=10.0   # only needed if you re-cut your photo; the banner script itself uses the standard library
